@@ -1,0 +1,13 @@
+# Environment
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# macOS
+.DS_Store
